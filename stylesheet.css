@@ -1,0 +1,117 @@
+<link type="text/css" rel="stylesheet" href="meyersReset.html"/>
+
+
+html	      {
+			text-align: center;
+			width: 900px;
+
+}
+.header     {
+		    max-width: 900px; 
+		    min-width: 320px; 
+		    margin: 0;
+		    padding-left: 80px;
+		    padding-top: 10px;
+}
+.logo		    {
+			float: left;
+}
+.delicious  {
+			font-family: Yellowtail;
+			font-size: 38px;
+			position: relative;
+			float: left;
+			margin-top: -10px;
+}
+.subhead    {
+			font-family: Abel;	
+			font-size: 12px;
+			float: left;
+			padding-right: 590px;
+}
+.icongroup  {
+			float: right;
+			padding-left: 500px;
+			position: relative;	
+			padding-bottom: 20px;
+}
+.display    {
+			padding-left: 80px;
+			padding-right: 90px;
+}
+h1 		      {
+			font-family: Abel; 
+			font-size: 36px;
+			font-weight: bolder;
+}
+h3		      {
+  			font-family: Droid serif;		
+  			font-size: 12px;
+  			color: #a4a4a4;
+}
+#print      { 
+			float: right;
+			position: relative;
+
+}
+li 		      {
+  			font-family: Patrick Hand;
+  			font-size: 20px; 			
+}
+.instructions{
+			padding-left: 80px;
+			padding-right: 90px;
+			font-size: 18px;
+			color: #6e6e6e;
+			font-weight: medium;
+}
+.ingredients{
+			padding-left: 80px;
+}
+#right		  { 
+			height: 30px;
+			width: 350px;
+			position: relative;
+			bottom: 262px;
+			left: 50%;
+			color: #6e6e6e;
+}
+#left	      {
+			height: 30px;
+			width: 350px;
+			position: relative;
+			left: 100px;
+			bottom: 262px;
+			top: 73px;
+			color: #6e6e6e;
+}
+.border		  {
+			padding-bottom: 10px;
+}
+.footer		  {
+			 padding-left: 80px;
+			 font-size: 18px;
+}
+h2			    {
+			 font-size: 24px;
+			 font-weight: bold;	
+}
+.minilogo	  {
+
+			 z-index
+}
+div.footer	{
+			 float: right;
+			 padding-right: -40px;
+}
+.button		  {
+			 float: right;
+			 margin-bottom: 115px;
+			 margin-right: 90px;
+}	
+hr          {
+			 margin-left: ;
+			 margin-right: ;
+			 margin-bottom: 105px;
+}
+			
