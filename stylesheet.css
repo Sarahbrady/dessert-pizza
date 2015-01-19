@@ -1,7 +1,7 @@
 <link type="text/css" rel="stylesheet" href="meyersReset.html"/>
 
 
-html	      {
+html	     {
 			text-align: center;
 			width: 900px;
 
@@ -13,49 +13,52 @@ html	      {
 		    padding-left: 80px;
 		    padding-top: 10px;
 }
-.logo		    {
+.logo		{
 			float: left;
 }
 .delicious  {
-			font-family: Yellowtail;
+			font-family: 'Yellowtail';
 			font-size: 38px;
 			position: relative;
 			float: left;
-			margin-top: -10px;
+			margin-top: 0px;
+
 }
 .subhead    {
 			font-family: Abel;	
 			font-size: 12px;
 			float: left;
 			padding-right: 590px;
+			margin-top: -30px;
 }
 .icongroup  {
 			float: right;
-			padding-left: 500px;
-			position: relative;	
+			padding-left: 500px;	
 			padding-bottom: 20px;
 }
 .display    {
 			padding-left: 80px;
 			padding-right: 90px;
 }
-h1 		      {
-			font-family: Abel; 
+h1 		    {
+			font-family: 'Abel'; 
 			font-size: 36px;
 			font-weight: bolder;
 }
-h3		      {
-  			font-family: Droid serif;		
+h3		    {
+  			font-family: 'Droid serif';		
   			font-size: 12px;
   			color: #a4a4a4;
 }
 #print      { 
 			float: right;
 			position: relative;
-
 }
-li 		      {
-  			font-family: Patrick Hand;
+.photo {
+	max-width: 830px;
+}
+li 		    {
+  			font-family: 'Patrick Hand';
   			font-size: 20px; 			
 }
 .instructions{
@@ -68,50 +71,51 @@ li 		      {
 .ingredients{
 			padding-left: 80px;
 }
-#right		  { 
+#right		{ 
 			height: 30px;
 			width: 350px;
 			position: relative;
-			bottom: 262px;
+			bottom: 255px;
 			left: 50%;
 			color: #6e6e6e;
 }
-#left	      {
+#left	    {
 			height: 30px;
 			width: 350px;
 			position: relative;
-			left: 100px;
-			bottom: 262px;
-			top: 73px;
+			left: 60px;
+			bottom: 280px;
+			top: 38px;
 			color: #6e6e6e;
 }
-.border		  {
-			padding-bottom: 10px;
+.border {
+			max-width: 830px;
+			padding-left: 90px;
+
 }
-.footer		  {
-			 padding-left: 80px;
-			 font-size: 18px;
-}
-h2			    {
+h2			 {
 			 font-size: 24px;
 			 font-weight: bold;	
 }
-.minilogo	  {
-
+.minilogo	 {
 			 z-index
 }
-div.footer	{
-			 float: right;
-			 padding-right: -40px;
+.footer	 {
+			 font-size: 18px;
+			 padding: 0 90px 0 80px;
 }
-.button		  {
+.button		 {
 			 float: right;
-			 margin-bottom: 115px;
-			 margin-right: 90px;
+			 margin-bottom: 220px;
+			 padding-right: 90px;
 }	
-hr          {
+.line           {
 			 margin-left: ;
 			 margin-right: ;
-			 margin-bottom: 105px;
+			 margin-bottom: 100px;
+			 max-width: 830;
+}
+.copyright {
+			 text-align: center;
 }
 			

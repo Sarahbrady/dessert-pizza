@@ -1,0 +1,2 @@
+Here is the Intro to CSS assignment. As per usual I did not set up my Git hub repo properly, hopefully adding this README helps fix things!
+I made use of Photoshop to incorporate my images, but really struggled with the CSS portion in regards to positioning (float, padding, margins etc...). I am working on the grid portion and will hopefully have that turned in by EOD - I'm finding this style a little easier.
