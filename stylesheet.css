@@ -1,5 +1,5 @@
 html {
-    max-width: 960px; 
+    max-width: 960px;
     margin-left: 90px;
     margin-right: 90px;
 }
@@ -22,12 +22,10 @@ html {
     margin-bottom: 30px;
     margin-left: 25px;
     margin-top: 5px;
-    width: 5px;
-
 }
 .display {
     margin: 0px;
-} 
+}
 h1 {
     font-family: 'Abel';
     font-size: 36px;
@@ -67,7 +65,7 @@ h1 {
     left: 50%;
     color: #6e6e6e;
 }
-.border { 
+.border {
     margin-bottom: 20px;
     max-width: 895px;
 }
@@ -87,9 +85,8 @@ h2 {
 .minilogo {
     text-align: center;
 }
-.line {
-    margin-bottom: 80px;
-    max-width: 900px; 
+.borderLine {
+    border-top: 2px solid gray;
 }
 .copyright {
     text-align: center;
