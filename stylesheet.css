@@ -1,121 +1,94 @@
-<link type="text/css" rel="stylesheet" href="meyersReset.html"/>
-
-
-html	     {
-			text-align: center;
-			width: 900px;
-
+html {
+    max-width: 960px;
+    margin-left: 90px;
+    margin-right: 90px;
 }
-.header     {
-		    max-width: 900px; 
-		    min-width: 320px; 
-		    margin: 0;
-		    padding-left: 80px;
-		    padding-top: 10px;
+.logo {
+    margin: 20px 10px 10px 10px;
 }
-.logo		{
-			float: left;
+.delicious {
+    font-family: 'Yellowtail';
+    font-size: 36px;
+    margin-top: 20px;
 }
-.delicious  {
-			font-family: 'Yellowtail';
-			font-size: 38px;
-			position: relative;
-			float: left;
-			margin-top: 0px;
-
+.subhead {
+    font-family: 'Abel';
+    font-size: 10px;
+    margin-left: 3px;
 }
-.subhead    {
-			font-family: Abel;	
-			font-size: 12px;
-			float: left;
-			padding-right: 590px;
-			margin-top: -30px;
+.flexbox {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 30px;
+    margin-left: 25px;
+    margin-top: 5px;
 }
-.icongroup  {
-			float: right;
-			padding-left: 500px;	
-			padding-bottom: 20px;
+.display {
+    margin: 0px;
 }
-.display    {
-			padding-left: 80px;
-			padding-right: 90px;
+h1 {
+    font-family: 'Abel';
+    font-size: 36px;
+    font-weight: bolder;
+    margin-top: 40px;
 }
-h1 		    {
-			font-family: 'Abel'; 
-			font-size: 36px;
-			font-weight: bolder;
+.print {
+    margin-right: 60px;
+    float: right;
 }
-h3		    {
-  			font-family: 'Droid serif';		
-  			font-size: 12px;
-  			color: #a4a4a4;
+.dateInfo {
+    margin-bottom: 20px;
 }
-#print      { 
-			float: right;
-			position: relative;
+.paragraph {
+    text-indent: 30px;
+    font-family: 'Droid serif';
+    font-size: 16px;
+    margin: 20px;
 }
-.photo {
-	max-width: 830px;
+#left {
+    font-size: 24px;
+    font-family: 'Patrick Hand';
+    height: 50px;
+    width: 350px;
+    position: relative;
+    left: 60px;
+    top: 45px;
+    color: #6e6e6e;
 }
-li 		    {
-  			font-family: 'Patrick Hand';
-  			font-size: 20px; 			
-}
-.instructions{
-			padding-left: 80px;
-			padding-right: 90px;
-			font-size: 18px;
-			color: #6e6e6e;
-			font-weight: medium;
-}
-.ingredients{
-			padding-left: 80px;
-}
-#right		{ 
-			height: 30px;
-			width: 350px;
-			position: relative;
-			bottom: 255px;
-			left: 50%;
-			color: #6e6e6e;
-}
-#left	    {
-			height: 30px;
-			width: 350px;
-			position: relative;
-			left: 60px;
-			bottom: 280px;
-			top: 38px;
-			color: #6e6e6e;
+#right {
+    font-size: 24px;
+    font-family: 'Patrick Hand';
+    height: 60px;
+    width: 350px;
+    position: relative;
+    bottom: 261px;
+    left: 50%;
+    color: #6e6e6e;
 }
 .border {
-			max-width: 830px;
-			padding-left: 90px;
-
+    margin-bottom: 20px;
+    max-width: 895px;
 }
-h2			 {
-			 font-size: 24px;
-			 font-weight: bold;	
+h2 {
+    font-size: 20px;
+    font-family: 'Droid serif';
+    margin-bottom: 10px;
 }
-.minilogo	 {
-			 z-index
+.vanessa {
+    float: left;
 }
-.footer	 {
-			 font-size: 18px;
-			 padding: 0 90px 0 80px;
+.button {
+    float: right;
+    margin-right: 45px;
+    margin-top: -30px;
 }
-.button		 {
-			 float: right;
-			 margin-bottom: 220px;
-			 padding-right: 90px;
-}	
-.line           {
-			 margin-left: ;
-			 margin-right: ;
-			 margin-bottom: 100px;
-			 max-width: 830;
+.minilogo {
+    text-align: center;
+}
+.borderLine {
+    border-top: 2px solid gray;
 }
 .copyright {
-			 text-align: center;
+    text-align: center;
+    margin: 60px;
 }
-			
